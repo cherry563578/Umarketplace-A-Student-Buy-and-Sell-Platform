@@ -26,7 +26,7 @@
    - **Eclipse:** Go to `File` → `Open Projects from File System...` and select the extracted folder (ensure `src` is configured as the source folder).
    - **IntelliJ IDEA / VS Code:** Open the extracted root folder directly.
 
-6. Keep all image and font files (`UMarketplace.jpg`, `UMarketplaceHome.jpg`, `ListingCardPanel.png`, `HelveticaNowDisplay-Regular.ttf`, `HelveticaNowDisplay-Bold.ttf`, and listing `.jpg` images) in the **project root directory** alongside `src/`.
+6. Keep all image and font files (`UMarketplace.jpg`, `UMarketplaceHome.jpg`, `ListingCardPanel.png`, `HelveticaNowDisplay-Regular.ttf`, `HelveticaNowDisplay-Bold.ttf`, and etc.) in the **project root directory** alongside `src/`.
 
 8. Locate **`src/umarketplace/Main.java`** and run it as a **Java Application**.
 
