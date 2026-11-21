@@ -18,14 +18,16 @@
 ‣ Ark Daniel G. Alegarbes - Documentation
 
 # How To Run:
-1. Download the UMarketplace project repository from GitHub.
+1. Download or clone the **UMarketplace** repository from GitHub (`<> Code` → `Download ZIP`, then extract).
 
-3. Open the project folder using your preferred IDE.
+3. Make sure **Java Development Kit (JDK) 21** (or compatible Java SE) is installed. No external third-party libraries are required (uses built-in Java Swing).
 
-5. Make sure the required programming language, libraries, and dependencies are installed.
+5. Open the extracted project folder in your preferred IDE:
+   - **Eclipse:** Go to `File` → `Open Projects from File System...` and select the extracted folder (ensure `src` is configured as the source folder).
+   - **IntelliJ IDEA / VS Code:** Open the extracted root folder directly.
 
-7. All image and text assets (UMarketplaceHome.jpg, HelveticaNowDisplay-Regular.ttf etc.) remain in the root directory alongside the source code.
+6. Keep all image and font files (`UMarketplace.jpg`, `UMarketplaceHome.jpg`, `ListingCardPanel.png`, `HelveticaNowDisplay-Regular.ttf`, `HelveticaNowDisplay-Bold.ttf`, and listing `.jpg` images) in the **project root directory** alongside `src/`.
 
-9. Run Main.java as a Java Application.
+8. Locate **`src/umarketplace/Main.java`** and run it as a **Java Application**.
 
-NOTE: This is an initial progress of the project, the login accepts any input and you are able to freely access the home page. Current data were seeded.
+> **NOTE:** This is an initial progress build of the project—the login screen accepts any input so you can freely access the home page, and current listings are seeded sample data.
