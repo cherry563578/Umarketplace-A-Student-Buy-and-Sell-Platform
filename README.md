@@ -17,4 +17,4 @@
 4. All image and text assets (UMarketplaceHome.jpg, HelveticaNowDisplay-Regular.ttf etc.) remain in the root directory alongside the source code.
 5. Run Main.java as a Java Application.
 
-NOTE: This is an initial progress of the project, the login accepts any input and you are able to freely access the home page.
+NOTE: This is an initial progress of the project, the login accepts any input and you are able to freely access the home page. Current data were seeded.
