@@ -1,5 +1,5 @@
 # UMarketplace
-**is a student buy and sell platform designed for students of University of Mindanao. It provides a centralized marketplace where students can buy and sell their items such as, school supplies, uniforms, books, and other useful items within the university. The system aims to make school materials more affordable while allowing students to sell their (but not limited to) used or unused belongings to other students.
+**is a student buy and sell platform designed for students of University of Mindanao. It provides a centralized marketplace where students can buy and sell their items such as, school supplies, uniforms, books, and other useful items within the university. The system aims to make school materials more affordable while allowing students to sell their (but not limited to) used or unused belongings to other students.**
 
 # Main Features (initial progress)
 ‣ Access to Login and HomePage menu.
