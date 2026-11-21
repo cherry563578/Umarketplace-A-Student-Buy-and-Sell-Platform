@@ -19,9 +19,13 @@
 
 # How To Run:
 1. Download the UMarketplace project repository from GitHub.
-2. Open the project folder using your preferred IDE.
-3. Make sure the required programming language, libraries, and dependencies are installed.
-4. All image and text assets (UMarketplaceHome.jpg, HelveticaNowDisplay-Regular.ttf etc.) remain in the root directory alongside the source code.
-5. Run Main.java as a Java Application.
+
+3. Open the project folder using your preferred IDE.
+
+5. Make sure the required programming language, libraries, and dependencies are installed.
+
+7. All image and text assets (UMarketplaceHome.jpg, HelveticaNowDisplay-Regular.ttf etc.) remain in the root directory alongside the source code.
+
+9. Run Main.java as a Java Application.
 
 NOTE: This is an initial progress of the project, the login accepts any input and you are able to freely access the home page. Current data were seeded.
