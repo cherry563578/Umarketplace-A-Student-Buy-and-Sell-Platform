@@ -3,8 +3,11 @@
 
 # Main Features (initial progress)
 ‣ Access to Login and HomePage menu.
+
 ‣ Item categories - Organizes listing (e.g., Books, Uniforms, School Supplies, Electronics, Others).
+
 ‣ Browse + Search and Filter - Allows students to view all active listings and filter items by category and price.
+
 ‣ Contact Seller - Allows students to view listing details and see seller’s contact info or a contact seller form. (No in-app payment, cart or checkout. Transactions happen offline). 
 
 # How To Run:
