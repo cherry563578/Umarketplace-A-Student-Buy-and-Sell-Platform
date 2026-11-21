@@ -10,6 +10,13 @@
 
 ‣ Contact Seller - Allows students to view listing details and see seller’s contact info or a contact seller form. (No in-app payment, cart or checkout. Transactions happen offline). 
 
+# Team Members and Roles
+‣ Cherry Love Del A. Booc - Front end and back end programmer
+
+‣ Yuki Hannah C. Mercado - Documentation
+
+‣ Ark Daniel G. Alegarbes - Documentation
+
 # How To Run:
 1. Download the UMarketplace project repository from GitHub.
 2. Open the project folder using your preferred IDE.
